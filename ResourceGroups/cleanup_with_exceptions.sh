@@ -1,6 +1,6 @@
 #!/bin/bash
 # Created by Jan Gebser (Brainhub24)
-# https://github.com/Brainhub24/AZURE_Snippets/RecourceGroups/cleanup.sh
+# https://github.com/Brainhub24/AZURE_Snippets/ResourceGroups/cleanup.sh
 
 # Set the name of the output file with the current date and time
 output_file="cleanup_$(date +'%Y-%m-%d-%H-%M-%S').txt"
